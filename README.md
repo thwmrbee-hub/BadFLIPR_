@@ -1,15 +1,15 @@
-BadFLIPR_
+# **BadFLIPR_**
 A standalone Flipper Zero firmware built for experimentation, customization, and freedom.
 
 BadFLIPR_ is an independent custom firmware project for the Flipper Zero, designed for hobbyists, tinkerers, security researchers, and curious users who want more control over what their device can do.
 
 BadFLIPR_ takes the familiar Flipper Zero experience and expands it with 40+ additional applications, utilities, experiments, and tools, creating a firmware environment intended for people who want to explore beyond the stock software experience.
 
-Explore. Experiment. Learn. Build your own way.
+## **Explore. Experiment. Learn. Build your own way.**
 
 BadFLIPR_ is not designed around telling users what they should do with their hardware. It is designed around giving users the software, flexibility, and freedom to experiment with hardware they own and environments where they have permission to test.
 
-✦ What Is BadFLIPR_?
+**✦ What Is BadFLIPR_?**
 
 BadFLIPR_ is a completely independent firmware project for the Flipper Zero.
 
@@ -21,7 +21,8 @@ BadFLIPR_ is built for users who enjoy discovering what their hardware is capabl
 
 Whether you're learning about wireless protocols, experimenting with embedded systems, developing your own applications, exploring hardware interfaces, or simply customizing your Flipper, BadFLIPR_ is intended to give you more things to explore.
 
-🚀 Features
+## **🚀 Features**
+
 40+ Additional Applications
 
 BadFLIPR_ expands the Flipper Zero software library with more than 40 additional applications.
@@ -56,7 +57,7 @@ Experimental applications
 
 The exact application lineup may evolve as the project develops.
 
-🧰 An Expanded Toolkit
+## **🧰 An Expanded Toolkit**
 
 BadFLIPR_ is designed around the idea of having a wide variety of tools available from a single firmware installation.
 
@@ -66,7 +67,7 @@ The goal is simple:
 
 Install BadFLIPR_ → pick up your Flipper → start experimenting.
 
-🔬 Built for Experimentation
+## **🔬 Built for Experimentation**
 
 BadFLIPR_ is primarily intended for people who enjoy figuring things out.
 
@@ -94,7 +95,7 @@ Likes modifying hardware and software
 
 then BadFLIPR_ is built with you in mind.
 
-🧠 Learn by Doing
+## **🧠 Learn by Doing**
 
 One of the core ideas behind BadFLIPR_ is that experimentation is one of the best ways to learn.
 
@@ -108,7 +109,7 @@ BadFLIPR_ provides a larger collection of tools that can be used in controlled e
 
 Use it with your own equipment, development boards, test systems, and other devices you have permission to examine.
 
-⚡ Why BadFLIPR_?
+## **⚡ Why BadFLIPR_?**
 
 The Flipper Zero is already an extremely capable piece of hardware.
 
@@ -142,7 +143,7 @@ Sometimes the most important question is simply:
 
 BadFLIPR_ is built for people who want to find out.
 
-🛠️ Supported Functionality
+## **🛠️ Supported Functionality**
 
 BadFLIPR_ aims to maintain compatibility with the broader Flipper Zero ecosystem and support the device's available capabilities as of 2026.
 
@@ -176,7 +177,7 @@ Experimental applications
 
 Compatibility can change as the Flipper ecosystem and BadFLIPR_ itself evolve.
 
-📦 Installation
+## **📦 Installation**
 
 BadFLIPR_ is distributed as custom firmware for compatible Flipper Zero hardware.
 
@@ -196,7 +197,7 @@ Important: Custom firmware can introduce bugs or unexpected behavior. Install it
 
 Detailed installation instructions should be maintained in the project's documentation so they can remain synchronized with each release.
 
-📱 Applications
+## **📱 Applications**
 
 BadFLIPR_ includes 40+ additional applications.
 
@@ -213,7 +214,7 @@ App Name	Research	Description
 
 If you're contributing an application, please document what it does, which hardware it requires, and any limitations users should know about.
 
-🧪 Research & Responsible Experimentation
+## **🧪 Research & Responsible Experimentation**
 
 BadFLIPR_ is intended for experimentation, education, research, and use with equipment you own or are authorized to test.
 
@@ -229,7 +230,7 @@ If you don't own it and don't have permission to test it, don't test it.
 
 For researchers, the recommended environment is equipment specifically designated for experimentation, isolated test networks, development boards, lab hardware, and other systems where you have explicit authorization.
 
-🧩 Customization
+## **🧩 Customization**
 
 BadFLIPR_ is intended to be more than a preconfigured collection of applications.
 
@@ -257,7 +258,7 @@ Documentation
 
 The goal is to make BadFLIPR_ something the community can continue building rather than a firmware image that remains static.
 
-👨‍💻 For Developers
+## **👨‍💻 For Developers**
 
 BadFLIPR_ is also intended to be a platform for developers interested in creating software for the Flipper Zero.
 
@@ -279,7 +280,7 @@ How to contribute improvements
 
 Good documentation makes experimental software significantly easier for other people to understand and improve.
 
-🗺️ Roadmap
+## **🗺️ Roadmap**
 
 BadFLIPR_ is an evolving project.
 
@@ -309,7 +310,7 @@ New experimental functionality
 
 The roadmap may change as development progresses and community feedback is received.
 
-🤝 Contributing
+## **🤝 Contributing**
 
 Contributions are welcome.
 
@@ -335,7 +336,7 @@ Examples and demonstrations
 
 Before submitting a large change, consider opening an issue or discussion so the proposed functionality can be discussed with the project maintainers.
 
-🐛 Bug Reports
+## **🐛 Bug Reports**
 
 Found something broken?
 
@@ -361,7 +362,7 @@ Photos or screenshots when useful
 
 A detailed bug report makes it much easier to reproduce and fix problems.
 
-📸 Screenshots & Demonstrations
+## **📸 Screenshots & Demonstrations**
 
 Screenshots, videos, GIFs, and demonstrations are encouraged.
 
@@ -381,7 +382,7 @@ New releases
 
 Never include private credentials, personal information, or unauthorized systems in demonstrations.
 
-⚠️ Disclaimer
+## **⚠️ Disclaimer**
 
 BadFLIPR_ is provided as an experimental custom firmware project.
 
@@ -391,44 +392,3 @@ BadFLIPR_ does not grant permission to access systems, networks, devices, creden
 
 Know what you're testing. Own what you're testing—or have explicit authorization to test it.
 
-📜 License
-
-See the LICENSE file for the applicable license and terms.
-
-Individual components or applications included in the project may have their own licensing requirements. Check the relevant source files and documentation before redistributing modified components.
-
-⭐ Support the Project
-
-If you find BadFLIPR_ useful:
-
-⭐ Star the repository
-
-🐛 Report bugs
-
-💡 Suggest features
-
-🔧 Submit improvements
-
-📖 Improve the documentation
-
-🧪 Test releases
-
-🤝 Contribute applications
-
-Open-source projects grow because people participate in them.
-
-🔥 BadFLIPR_
-
-40+ apps. One Flipper. No unnecessary limits on curiosity.
-
-BadFLIPR_ is for the people who look at a piece of hardware and don't just ask "What is it supposed to do?"
-
-They ask:
-
-"What else can it do?"
-
-And then they find out.
-
-Disclaimer
-
-BadFLIPR_ is an independent project and is not affiliated with, endorsed by, or officially associated with Flipper Devices unless explicitly stated otherwise.
