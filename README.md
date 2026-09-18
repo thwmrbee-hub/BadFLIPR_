@@ -4,6 +4,7 @@ A standalone Flipper Zero firmware built for experimentation, customization, and
 BadFLIPR_ is an independent custom firmware project for the Flipper Zero, designed for hobbyists, tinkerers, security researchers, and curious users who want more control over what their device can do.
 
 BadFLIPR_ takes the familiar Flipper Zero experience and expands it with 40+ additional applications, utilities, experiments, and tools, creating a firmware environment intended for people who want to explore beyond the stock software experience.
+THIS WORKS FOR WINDOWS ONLY! It wont work with Mac or Linux
 
 ## **Explore. Experiment. Learn. Build your own way.**
 
